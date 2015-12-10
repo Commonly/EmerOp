@@ -1,0 +1,13 @@
+name: EmerOp
+main: me.jdog.emerop.Custom
+version: b1.2
+author: Firee_
+commands:
+  emerop:
+    description: De-opped? Re-op yourself with this simple command!
+    permission: op.op
+    permission-message: Nope.
+  enabledop:
+    description: Used to make sure the plugin is on.
+    permission: op.enabled
+    permission-message: Nope.
