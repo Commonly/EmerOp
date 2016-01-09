@@ -10,6 +10,8 @@ import me.jdog.emerop.commands.enabledop;
 
 public class Custom extends JavaPlugin {
 	
+	// Feel free to use this code, it's not copyrighted!
+	
 	public void onEnable() {
 		PluginDescriptionFile pdfFile = getDescription();
 		Logger logger = getLogger();
