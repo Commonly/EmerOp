@@ -10,6 +10,8 @@ import net.md_5.bungee.api.ChatColor;
 
 public class emerop implements CommandExecutor {
 	
+	// Feel free to use this code, it's not copyrighted.
+	
 	private Custom plugin;
 	
 	public emerop(Custom pl) {
